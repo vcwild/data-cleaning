@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Assignment
+# Getting and Cleaning Data
 
 > This is a step-by-step project for getting and cleaning data sets. It includes the instructions on how to do an analysis on Human Activity by using the UCI Irvine Machine Learning repositories.
 
